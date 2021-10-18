@@ -61,7 +61,7 @@ bool Stack::isEmpty()
 }
 
 // Driver program to test above functions
-...................
+
 int main()
 {
 	class Stack s;
